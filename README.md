@@ -1,5 +1,5 @@
 # ADAS-car-on-treadmill-visualizer
-Visualization tool designed for the ADAS-on-a-treadmill system used by the University of Waterloo Real-time Embedded Systems Lab.  The visualizer is built into Unity Game Engine and subscribes to ROS topics such as the treadmill speed and car positions using a library called [ROS Sharp](https://github.com/siemens/ros-sharp).  
+Visualization tool designed for the ADAS-on-a-treadmill system used by the University of Waterloo Real-time Embedded Systems Lab.  The visualizer is built into Unity Game Engine and subscribes to ROS topics such as the treadmill speed and car positions using [ROS Sharp](https://github.com/siemens/ros-sharp).  
 
 ![ROS Sharp Communication](./ros_sharp.png)
 
